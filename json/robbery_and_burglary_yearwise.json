@@ -1,0 +1,82 @@
+[
+  {
+    "year": 2001,
+    "robbery": 18441,
+    "burglary": 26011
+  },
+  {
+    "year": 2002,
+    "robbery": 18522,
+    "burglary": 25623
+  },
+  {
+    "year": 2003,
+    "robbery": 17332,
+    "burglary": 25156
+  },
+  {
+    "year": 2004,
+    "robbery": 15978,
+    "burglary": 24564
+  },
+  {
+    "year": 2005,
+    "robbery": 16047,
+    "burglary": 25504
+  },
+  {
+    "year": 2006,
+    "robbery": 15968,
+    "burglary": 24324
+  },
+  {
+    "year": 2007,
+    "robbery": 15450,
+    "burglary": 24858
+  },
+  {
+    "year": 2008,
+    "robbery": 16703,
+    "burglary": 26219
+  },
+  {
+    "year": 2009,
+    "robbery": 15979,
+    "burglary": 26765
+  },
+  {
+    "year": 2010,
+    "robbery": 14273,
+    "burglary": 26422
+  },
+  {
+    "year": 2011,
+    "robbery": 13980,
+    "burglary": 26617
+  },
+  {
+    "year": 2012,
+    "robbery": 13483,
+    "burglary": 22841
+  },
+  {
+    "year": 2013,
+    "robbery": 11819,
+    "burglary": 17893
+  },
+  {
+    "year": 2014,
+    "robbery": 9801,
+    "burglary": 14570
+  },
+  {
+    "year": 2015,
+    "robbery": 9647,
+    "burglary": 13162
+  },
+  {
+    "year": 2016,
+    "robbery": 3037,
+    "burglary": 3643
+  }
+]

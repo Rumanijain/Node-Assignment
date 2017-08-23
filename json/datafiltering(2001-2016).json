@@ -1,0 +1,98 @@
+[
+  {
+    "year": 2001,
+    "Damage_to_property": 27927,
+    "Damage_to_vehicle": 27258,
+    "Damage_to_state_sup_prop": 621
+  },
+  {
+    "year": 2002,
+    "Damage_to_property": 26933,
+    "Damage_to_vehicle": 27042,
+    "Damage_to_state_sup_prop": 641
+  },
+  {
+    "year": 2003,
+    "Damage_to_property": 24916,
+    "Damage_to_vehicle": 26786,
+    "Damage_to_state_sup_prop": 589
+  },
+  {
+    "year": 2004,
+    "Damage_to_property": 24664,
+    "Damage_to_vehicle": 25241,
+    "Damage_to_state_sup_prop": 520
+  },
+  {
+    "year": 2005,
+    "Damage_to_property": 25043,
+    "Damage_to_vehicle": 25827,
+    "Damage_to_state_sup_prop": 461
+  },
+  {
+    "year": 2006,
+    "Damage_to_property": 25564,
+    "Damage_to_vehicle": 26146,
+    "Damage_to_state_sup_prop": 442
+  },
+  {
+    "year": 2007,
+    "Damage_to_property": 23974,
+    "Damage_to_vehicle": 24441,
+    "Damage_to_state_sup_prop": 358
+  },
+  {
+    "year": 2008,
+    "Damage_to_property": 23320,
+    "Damage_to_vehicle": 25104,
+    "Damage_to_state_sup_prop": 314
+  },
+  {
+    "year": 2009,
+    "Damage_to_property": 21065,
+    "Damage_to_vehicle": 21973,
+    "Damage_to_state_sup_prop": 260
+  },
+  {
+    "year": 2010,
+    "Damage_to_property": 18079,
+    "Damage_to_vehicle": 18910,
+    "Damage_to_state_sup_prop": 244
+  },
+  {
+    "year": 2011,
+    "Damage_to_property": 17078,
+    "Damage_to_vehicle": 16998,
+    "Damage_to_state_sup_prop": 207
+  },
+  {
+    "year": 2012,
+    "Damage_to_property": 16500,
+    "Damage_to_vehicle": 16505,
+    "Damage_to_state_sup_prop": 207
+  },
+  {
+    "year": 2013,
+    "Damage_to_property": 14248,
+    "Damage_to_vehicle": 13837,
+    "Damage_to_state_sup_prop": 179
+  },
+  {
+    "year": 2014,
+    "Damage_to_property": 12867,
+    "Damage_to_vehicle": 12697,
+    "Damage_to_state_sup_prop": 176
+  },
+  {
+    "year": 2015,
+    "Damage_to_property": 13287,
+    "Damage_to_vehicle": 13630,
+    "Damage_to_state_sup_prop": 155
+  },
+  {
+    "year": 2016,
+    "Damage_to_property": 4016,
+    "Damage_to_vehicle": 4099,
+    "Damage_to_state_sup_prop": 40
+  }
+]
